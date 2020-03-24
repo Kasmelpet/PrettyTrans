@@ -1,0 +1,41 @@
+Dataleverandør ident                    :
+Transaktionstype                        :
+Tidsstempling                           :
+Brugernummer                            :
+Områdenummer                            :
+Betalingsart                            :
+Påligningsår                            :
+Debitornummer                           :
+Sagsnummer                              :
+Individtype                             :
+Ratenummer                              :
+Ratebeløb                               :
+Beløbstype                              :
+Rentefrit beløb                         :
+Opkrævningskode                         :
+Opkrævningsdato                         :
+Forfaldsdato                            :
+Sidste rettidige indbetalingsdato dato  :
+Sidste rentefrie indbetalingsdato       :
+Tekstnummer                             :
+Ratespecifikation                       :
+Slettemarkering                         :
+Fakturanummer                           :
+Stiftelsesdato                          :
+Fraperiode                              :
+Tilperiode                              :
+Ændringsårsagskode                      :
+Ændringsårsagstekst                     :
+Afstemningsnøgle                        :
+Personreference ID                      :
+Personreference navn                    :
+Bogføringsdato                          :
+Ordrenummer                             :
+Fakturamodtager kontonummer             :
+Fakturamodtager kontokode               :
+Ydelsesmodtager                         :
+Ydelsesmodtagerkode                     :
+Posteringsudtrækskode                   :
+Enhedsantal                             :
+Enhedskode                              :
+Enhedspris                              :
